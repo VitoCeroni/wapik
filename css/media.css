@@ -1,0 +1,147 @@
+@media(max-width: 575.98px) {
+
+img#lh {width: 10%;padding-right: 0.3em;border: 0;}
+#ph {display: none;}
+
+div.plan-table {width: 100%;}
+div.plans div.plans-b div.plans-box p {font-size: 12px;}
+div.back-header nav.header-menu {height: 45px;}
+div.back-header {height: 24em;}
+div.looking-for h2 {font-size: 1.4em;}
+div.back-header div.baner {padding-top: 5px;max-width: 100%;}
+div.back-header {height: 370px;}
+div.back-header div.baner a {padding: 10px 35px;}
+div.main-best-2 div.main-best-b {margin-top: -50px;flex-wrap: wrap;}
+div.main-best-2 div.main-best-b h3 {font-size: 14px;}
+div.back-header div.baner h1 {width: 200px;}
+div.main-best-1 p {line-height: 1.5;}
+#hor-main-best {width: 190px;margin-top: -3px;}
+div.back-header div.baner p {width: 200px;}
+div.main-best-1 {padding-top: 2px;}
+div.main-best-3 div.main-best-c {margin-top: -45px;}
+div.back-header nav.header-menu p {display: none;}
+nav.header-menu ul.sait-nav li a.getstar {display: none;}
+div.back-header nav.header-menu ul.sait-nav {margin-left: -40px;}
+div.looking-for {padding-top: 1px;}
+div.looking-back {margin-top: 17px;}
+div.map h3 {padding-top: 1px;font-size: 1.0em;}
+div.plan-table div.plan-table-b div.plan-table-box {width: 45%;height: 257px; }
+div.backgr-map {height: 304px;}
+div.map p {margin-top: -200px;font-size: 12px;}
+div.verticalLine {font-size: 0px;}
+div.ready-b-2 h2 {font-size: 1em;}
+div.plan h3 {margin-top: -50px;}
+div.plan p {line-height: 1.3em;}
+div.plan-table div.plan-table-b div.plan-table-box p.cash {font-size: 30px;}
+div.plan-table div.plan-table-b div.plan-table-box p.month {margin-top: -35px;}
+div.plan-table div.plan-table-b div.plan-table-box a {width: 70px;height: 30px;font-size: 12px;}
+div.plan-table div.plan-table-b div.plan-table-box p.table-item {font-size: 9px;text-align: center;margin: 10px 6px;}
+div.looking-back {height: 370px;}
+div.included {padding-top: 1px;}
+img.iphone {width: 100%;}
+div.girl img {max-width: 40%;}
+div.plans div.plans-b div.plans-box p {font-size: 7px;}
+div.girl img {margin-top: 18px;margin-bottom: 18px;}
+div.girl div.girl-b p {font-size: 18px;line-height: 1.1em;}
+div.ready-b div.ready-b-2 {margin-top: -100px;padding-left: 5px;}
+div.ready-b-2 p {font-size: 6px;line-height: 1.5em;}
+div.back-header nav.header-menu ul.sait-nav li a {font-size: 9px;margin-left: 7px;}
+div.help p.help-mail {margin-bottom: 10px;}
+div.footer-1 {width: 80%;}
+div.footer-1 div.footer-1-b {max-width: 300px;padding-top: 1px;}
+div.footer-1 {width: 150px;}
+div.plans div.plans-b div.plans-box p {padding-top: 30px;}
+div.footer-1 {justify-content: flex-start;}
+div.backgr-footer {height: 169px;}
+div.footer-1 div.footer-1-b h5 {font-size: 15px;}
+div.footer-1 div.footer-1-b p {margin-top: -20px;font-size: 10px}
+div.footer-1 div.footer-1-b a {width: 220px;font-size: 10px;}
+div.footer-2 div.footer-2-b div.footer-2-box {max-width: 100px;}
+div.footer-2 div.footer-2-b {padding-bottom: 1px;padding-top: 45px;}
+form div.mail-footer input[type="search"] {width: 60%;height: 30px;padding: 0.5em;font-size: 8px;}
+div.footer-2 div.footer-2-b div.footer-2-box p a {font-size: 8px;}
+div.footer-2 div.footer-2-b div.footer-2-box h5 {font-size: 8px;margin: 3px;}
+div.footer-2 div.footer-2-b div.footer-2-box p {font-size: 7px;margin: 3px;line-height: 1.8em}
+div.footer-2 div.footer-2-b div.footer-2-box h5.foot-wapik {font-size: 10px;}
+form div.mail-footer input[type="search"] {width: 40%;height: 1px;font-size: 8px;}
+form div.mail-footer input[type="submit"] {margin-left: 15px;}
+div.footer-3 div.footer-3-b p {font-size: 5px;}
+div.footer-3 div.footer-3-b div.img-foot img {padding: 0.1em;width: 50%;}
+}
+
+
+
+@media (min-width: 575.98px) and (max-width: 768.98px) {
+
+div.back-header div.baner {padding-top: 5px;}
+div.back-header {height: 360px;}
+div.back-header div.baner a {padding: 10px 35px;}
+div.main-best-2 div.main-best-b h3 {font-size: 14px;}
+div.back-header div.baner h1 {width: 400px;}
+#hor-main-best {width: 190px;margin-top: -3px;}
+div.back-header div.baner p {width: 400px;}
+div.main-best-1 {padding-top: 1px;}
+div.main-best-3 div.main-best-c {margin-top: -45px;}
+div.back-header nav.header-menu p {display: none;}
+div.looking-for {padding-top: 1px;}
+div.main-best-1 {padding-top: 42px;}
+div.looking-back {margin-top: 17px;}
+div.map h3 {padding-top: 1px;}
+div.plan-table div.plan-table-b div.plan-table-box {width: 180px;}
+div.backgr-map {height: 304px;}
+div.map p {margin-top: -200px;}
+div.verticalLine {font-size: 0px;}
+div.ready-b-2 h2 {font-size: 1em;}
+div.looking-back {height: 418px;}
+img.iphone {width: 100%;}
+div.girl img {max-width: 40%;}
+div.girl img {margin-top: 18px;margin-bottom: 18px;}
+div.girl div.girl-b p {font-size: 18px;line-height: 1.1em;}
+div.ready-b div.ready-b-2 {margin-top: -100px;padding-left: 5px;}
+div.ready-b-2 p {font-size: 11px;line-height: 1.5em;}
+div.back-header nav.header-menu ul.sait-nav li a {font-size: 8px;margin-left: 8px;}
+div.help p.help-mail {margin-bottom: 10px;}
+div.footer-1 div.footer-1-b {max-width: 60%;padding-top: 6px;}
+div.footer-1 {width: 800px;}
+div.plans div.plans-b div.plans-box p {padding-top: 30px;}
+div.footer-1 {width: 80%;}
+div.footer-1 {justify-content: flex-start;}
+div.backgr-footer {height: 199px;}
+div.footer-1 div.footer-1-b h5 {font-size: 16px;}
+div.footer-1 div.footer-1-b p {margin-top: -20px;}
+div.footer-1 div.footer-1-b a {width: 220px;font-size: 10px;}
+div.footer-2 div.footer-2-b div.footer-2-box {max-width: 100px;}
+div.footer-2 div.footer-2-b {padding-bottom: 1px;padding-top: 45px;}
+form div.mail-footer input[type="search"] {width: 60%;height: 30px;padding: 0.5em;font-size: 8px;}
+
+
+}
+
+
+
+@media (min-width: 768.98px) and (max-width: 991.98px) {
+div.back-header div.baner {padding-top: 40px;}
+div.back-header {height: 460px;}
+div.back-header nav.header-menu p {font-size: 11px;}
+div.main-best-1 {padding-top: 42px;}
+div.verticalLine {font-size: 0px;}
+div.ready-b div.ready-b-2 {margin-top: -100px;padding-left: 5px;}
+div.ready-b-2 p {font-size: 11px;line-height: 1.5em;}
+div.back-header nav.header-menu ul.sait-nav li a {font-size: 9px;margin-left: 10px;}
+div.footer-1 div.footer-1-b {max-width: 450px;padding-top: 1px;}
+div.footer-1 {width: 800px;}
+img.iphone {width: 100%;}
+div.looking-back {height: 476px;}
+div.map h3 {padding-top: 12px;}
+div.map p {margin-top: -200px;}
+div.backgr-map {height: 304px;}
+div.looking-for {padding-top: 7px;}
+div.plans div.plans-b div.plans-box p {padding-top: 10px;}
+div.girl img {max-width: 40%;}
+div.girl img {margin-top: 18px;margin-bottom: 18px;}
+div.footer-1 {justify-content: flex-start;}
+div.footer-1 div.footer-1-b h5 {font-size: 21px;}
+div.footer-1 div.footer-1-b p {margin-top: -35px;}
+div.footer-1 div.footer-1-b a {width: 250px;}
+
+}
